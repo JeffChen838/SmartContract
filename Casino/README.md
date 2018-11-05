@@ -13,5 +13,7 @@ STEP:
     Lottery machine to generate rand bet_number.
     Judge player is win or lose.
     
-Screenshot    
+    
+Screenshot:
+
 ![Screenshot](remix_01.jpg)    
